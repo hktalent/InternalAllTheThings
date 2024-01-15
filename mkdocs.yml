@@ -47,7 +47,7 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 repo_url: https://github.com/hktalent/InternalAllTheThings/
-edit_uri: edit/main/
+edit_uri: edit/master/
 plugins:
   - search
   - git-revision-date-localized
